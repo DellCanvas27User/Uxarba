@@ -1,15 +1,16 @@
-# Uxarba
+# Uxarba - Advanced UX/UI Framework
 
-Advanced user experience and interface design system for creative professionals.
+**Inspired by rxi/microui - Built for nSuite ecosystem**
 
 ## 🎯 Mission
 
-Uxarba is the UX/UI design foundation for the Nameless Collective ecosystem, providing:
+Uxarba is an advanced user experience and interface design system for creative professionals, providing:
 
-- **Advanced interface components** for creative applications
-- **Design system** with consistent styling and behavior
-- **User experience patterns** optimized for creative workflows
-- **Integration framework** for nSuite applications
+- **Immediate-mode UI** - Zero latency interactions
+- **Component library** - Reusable UI elements
+- **Design tokens** - Consistent styling system
+- **GPU acceleration** - Hardware-accelerated rendering
+- **nSuite integration** - Seamless connectivity with nWin, nThumb, nPaint
 
 ## 🚀 Features
 
